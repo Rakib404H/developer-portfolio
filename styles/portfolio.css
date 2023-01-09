@@ -174,10 +174,28 @@ color: #757575;
 
 }
 
-.resume-title{
+.resume-section-title{
     font-weight: 700;
     font-size: 35px;
     margin-top: 130px;
     text-align: center;
     margin-bottom: 110px;
+}
+.resume-container{
+
+}
+.resume-title{
+
+}
+.degree{
+
+}
+.course-name{
+
+}
+.institute-sess{
+
+}
+.degree-description{
+    
 }
