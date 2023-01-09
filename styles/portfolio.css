@@ -209,3 +209,22 @@ gap: 24px;
     font-size: 16px;
     color: #757575;
 }
+.resume-button{
+    
+    color: #FFFFFF;
+    height: 64px;
+    width: 200px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    text-align: center;
+    
+    
+}
+.resume-section-button{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 110px;
+}
