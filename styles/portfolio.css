@@ -69,7 +69,21 @@ nav li {
     font-size: 45px;
     margin-bottom: 5px;
 }
+.banner .btn-primary{
+    width: 200px;
 
+}
+.contact-btn{
+    font-weight: 700;
+font-size: 20px;
+color: #FD6E0A;
+width: 160px;
+height: 64px;
+margin-left: 30px;
+border-radius: 5px;
+border: 1px solid red;
+background-color: #FFF8F3;
+}
 .banner-desc {
     color: #757575;
     font-weight: 400;
@@ -111,9 +125,7 @@ display: flex;
 justify-content: space-around;
 }
 
-.about-info{
 
-}
 
 .info-title{
     font-size: 20px;
@@ -264,4 +276,7 @@ margin-bottom: 30px;
 }
 footer{
     text-align: center;
+}
+footer a{
+    color: red;
 }
